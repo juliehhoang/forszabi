@@ -5,8 +5,8 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "YIPPEEE! I love you! :3";
-  gif.src = "https://gifdb.com/images/high/cat-kiss-dip-peach-goma-1jfhz0dnkysf9wur.gif";
+  question.innerHTML = "YIPPEEE! I love you szabi! :3";
+  gif.src = "https://gifdb.com/images/high/cat-kiss-peach-goma-qtuwcoapoh2eoy4m.gif";
   yesBtn.style.display = "none";
   noBtn.style.display = "none";
 });
